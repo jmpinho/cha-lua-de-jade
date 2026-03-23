@@ -1,0 +1,68 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Longjing",
+        "home": "Chá verde chinês suave e refrescante.",
+        "detalhe": "O Longjing é um dos chás verdes mais famosos da China, originário de Hangzhou. Possui sabor delicado, levemente adocicado e aroma fresco.",
+        "preco": 32.90,
+        "imagem": "/imagens/longjing.png"
+      },
+      {
+        "id": 2,
+        "nome": "Tieguanyin",
+        "home": "Oolong floral tradicional chinês.",
+        "detalhe": "Tieguanyin é um chá oolong semi-oxidado conhecido por seu aroma floral intenso e sabor equilibrado entre chá verde e preto.",
+        "preco": 38.50,
+        "imagem": "/imagens/tieguanyin.png"
+      },
+      {
+        "id": 3,
+        "nome": "Pu-erh",
+        "home": "Chá fermentado com sabor terroso.",
+        "detalhe": "O Pu-erh é um chá envelhecido da província de Yunnan, famoso por seu sabor profundo, terroso e benefícios digestivos.",
+        "preco": 45.00,
+        "imagem": "/imagens/pu-erh.png"
+      },
+      {
+        "id": 4,
+        "nome": "Biluochun",
+        "home": "Chá verde aromático e delicado.",
+        "detalhe": "Produzido na região do Lago Tai, o Biluochun possui folhas enroladas e aroma frutado com sabor suave.",
+        "preco": 34.90,
+        "imagem": "/imagens/biluochun.avif"
+      },
+      {
+        "id": 5,
+        "nome": "Da Hong Pao",
+        "home": "Oolong premium das montanhas Wuyi.",
+        "detalhe": "Um dos chás mais prestigiados da China, com sabor tostado, notas minerais e aroma intenso.",
+        "preco": 59.90,
+        "imagem": "/imagens/dahongpao.png"
+      },
+      {
+        "id": 6,
+        "nome": "Chá de Jasmim",
+        "home": "Chá verde perfumado com jasmim.",
+        "detalhe": "Folhas de chá verde aromatizadas naturalmente com flores de jasmim, criando um sabor floral suave.",
+        "preco": 29.90,
+        "imagem": "/imagens/jasmine.webp"
+      },
+      {
+        "id": 7,
+        "nome": "Peônia Branca (Bai Mudan)",
+        "home": "Chá branco leve e elegante.",
+        "detalhe": "Produzido com brotos jovens e folhas novas, possui sabor delicado e notas doces naturais.",
+        "preco": 41.00,
+        "imagem": "/imagens/baimudan.webp"
+      },
+      {
+        "id": 8,
+        "nome": "Lapsang Souchong",
+        "home": "Chá preto defumado tradicional.",
+        "detalhe": "Originário das montanhas Wuyi, é famoso pelo aroma defumado obtido pela secagem sobre madeira de pinho.",
+        "preco": 36.90,
+        "imagem": "/imagens/lapsang.webp"
+      }
+    ]
+  }

@@ -1,0 +1,100 @@
+.detalhe-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    max-width: 1000px;
+    margin: 60px auto;
+    padding: 20px;
+    font-family: "Noto Serif", serif;
+    color: #2f3e34;
+  }
+  
+  .detalhe-card {
+    display: flex;
+    gap: 40px;
+    background-color: #f4f1e6;
+    border: 2px solid #d4af37;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    align-items: center;
+  }
+
+  .imagem-area {
+    padding-right: 40px;
+    border-right: 2px solid rgba(70, 52, 3, 0.12); 
+  }
+
+  .detalhe-img {
+    width: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .detalhe-info h1 {
+    color: #2f5e47;
+    margin-bottom: 15px;
+  }
+  
+  .detalhe-info p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .preco {
+    color: #d4af37;
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+  }
+  
+  .botoes {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  .botoes a {
+    text-decoration: none;
+  }
+  
+  .botoes button {
+    width: auto;
+    min-width: 100px;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    background-color: #407053;
+    color: #f4f1e6;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .botoes button:hover {
+    opacity: 0.9;
+  }
+  
+  .comprar,
+  .voltar {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    background-color: #407053;
+    color: #f4f1e6;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .comprar:hover,
+  .voltar:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+  }
+
+
+.btn-comprar.sucesso {
+  text-align: center;
+  background-color: #3ce460; 
+  transform: scale(1.1);    
+}

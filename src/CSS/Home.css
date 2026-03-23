@@ -1,0 +1,67 @@
+.home {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    background-image: url("../imagens/fundoSite.png");
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    font-family: "Georgia", serif;
+  }
+  
+  .home-topo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+  .home h1 {
+    color: #1f3d2b;
+    font-size: 3rem;
+    letter-spacing: 1px;
+  }
+  
+  .home img {
+    width: 110px;
+  }
+  
+  .home img:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.05);
+  }
+  
+
+  .home p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #3a4a3f;
+  }
+  
+  .home button {
+    margin-top: 25px;
+    padding: 12px 26px;
+  
+    background-color: #1f7a63;
+    color: white;
+  
+    border: none;
+    border-radius: 6px;
+  
+    font-size: 16px;
+    cursor: pointer;
+  
+    transition: all 0.3s ease;
+  }
+  
+  .home button:hover {
+    background-color: #145a48;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }

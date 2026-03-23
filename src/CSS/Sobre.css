@@ -1,0 +1,59 @@
+body {
+  background-color: #f4f1e6;
+  margin: 0;
+}
+
+.sobre-container {
+  max-width: 800px;
+  margin: 60px auto;
+  text-align: center;
+  padding: 40px;
+
+  background: rgba(230, 244, 238, 0.95);
+  border-radius: 12px;
+
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+
+  font-family: "Noto Serif", "Times New Roman", serif;
+  color: #2f3e34;
+
+  position: relative;
+}
+
+.sobre-container::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 12px;
+  background: radial-gradient(
+    circle at top,
+    rgba(212,175,55,0.08),
+    transparent 70%
+  );
+  pointer-events: none;
+}
+
+.foto {
+  width: 200px;
+  border-radius: 12px;
+  margin: 25px 0;
+
+  border: 3px solid rgba(212, 175, 55, 0.5);
+  padding: 4px;
+  background-color: #fff;
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
+}
+
+.foto:hover {
+  transform: scale(1.03);
+}
+
+.sobre-container p {
+  margin-bottom: 18px;
+  line-height: 1.8;
+  font-size: 1.05rem;
+  letter-spacing: 0.3px;
+}

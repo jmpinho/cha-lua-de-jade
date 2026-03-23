@@ -1,0 +1,68 @@
+.contato-container {
+    max-width: 700px;
+    margin: 60px auto;
+    padding: 35px;
+    text-align: center;
+    background-color: #f4f1e6;
+    border-radius: 10px;
+    border: 1px solid rgba(212, 175, 55, 0.4);
+    font-family: "Noto Serif", serif;
+    color: #2f3e34;
+  }
+  
+  .contato-container h1 {
+    color: #2f5e47;
+    margin-bottom: 15px;
+  }
+  
+  .contato-container p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  .contato-container img {
+    width: 180px;
+    margin: 20px 0;
+    border-radius: 50%;
+    border: 2px solid #d4af37;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  form input {
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid #cfc8b4;
+    font-size: 1rem;
+    background-color: #fff;
+  }
+  
+  form input:focus {
+    outline: none;
+    border-color: #407053;
+  }
+  
+  form button {
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #407053;
+    color: #f4f1e6;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  form button:hover {
+    opacity: 0.9;
+  }
+  
+  p {
+    font-weight: bold;
+    color: #2f5e47;
+  }
+  
