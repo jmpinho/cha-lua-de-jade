@@ -52,6 +52,20 @@ Abra esse link no navegador para visualizar o projeto
 
 <hr>
 
-## 📸 Mídia demonstrativa
-<p align="center"> <img src="imagens_cha_lua/Captura de tela 2026-05-24 113627" width="400"/></p>
+## 📸 Captura Demonstrativa
+
+<p align="center">
+  <img src="./imagens_cha_lua/fotoTelaPrincipal.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./imagens_cha_lua/fotoTelaCardapio.png" width="400"/>
+  <img src="./imagens_cha_lua/fotoTelaDetalhes.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="./imagens_cha_lua/fotoTelaFormulario.png" width="700"/>
+</p>
+
+## 📸 Gif Demonstrativo
 
