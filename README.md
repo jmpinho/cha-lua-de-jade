@@ -18,7 +18,27 @@
 - ✨ Efeitos visuais e animações
 - 🖼 Organização visual moderna
 
-  
+## 📸 Captura Demonstrativa
+
+<p align="center">
+  <img src="./imagens_cha_lua/fotoTelaPrincipal.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./imagens_cha_lua/fotoTelaCardapio.png" width="400"/>
+  <img src="./imagens_cha_lua/fotoTelaDetalhes.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="./imagens_cha_lua/fotoTelaFormulario.png" width="700"/>
+</p>
+
+## 🎥 Gif Demonstrativo
+
+<p align="center">
+  <img src="./imagens_cha_lua/gifDemonstrativo.gif" width="700"/>
+</p>
+
 ## 🚀 Como Executar o Projeto
 
 ### 1️⃣ Clone o repositório
@@ -50,22 +70,19 @@ http://localhost:5173
 ```
 Abra esse link no navegador para visualizar o projeto
 
-<hr>
 
-## 📸 Captura Demonstrativa
+## 📚 Aprendizados
 
-<p align="center">
-  <img src="./imagens_cha_lua/fotoTelaPrincipal.png" width="700"/>
-</p>
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
-<p align="center">
-  <img src="./imagens_cha_lua/fotoTelaCardapio.png" width="400"/>
-  <img src="./imagens_cha_lua/fotoTelaDetalhes.png" width="400"/>
-</p>
+- Componentização com React
+- Manipulação de estado
+- Consumo de API fake com JSON Server
+- Organização de projeto front-end
+- Responsividade
+- Estilização moderna com CSS
 
-<p align="center">
-  <img src="./imagens_cha_lua/fotoTelaFormulario.png" width="700"/>
-</p>
+## 👨‍💻 Autor
 
-## 📸 Gif Demonstrativo
+Feito por João Pinho
 
